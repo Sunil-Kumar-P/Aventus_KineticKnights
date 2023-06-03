@@ -1,0 +1,8 @@
+                 Angry Birds using Hand Gesture
+        
+Move your hand at any direction you like, Mouse will move with your hand.
+To hold click something, Close palm and then open.
+Similarly to drag close the palm and then move your hand.
+Using drag ,drag the angry birds and aim at the piggies/blocks.
+Enjoy-
+                                   By - Louise Patra

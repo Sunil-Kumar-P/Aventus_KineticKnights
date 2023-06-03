@@ -1,0 +1,9 @@
+Pose/pose1.jpg
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[174, 168, 113, 105, 118, 138, 114, 179]
+47
+Pose/p3.jpg
+[174, 176, 27, 35, 171, 164, 178, 171]
+78
+Pose/p4.jpg
+[116, 115, 152, 158, 141, 135, 170, 179]

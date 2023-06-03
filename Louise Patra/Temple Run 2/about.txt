@@ -1,0 +1,6 @@
+           Temple Run 2 using Hand Gesture
+        
+Move your hand up,down,left,right to move the player.
+Similarly close the palm to play and pause the game.
+Palm can also be used to activate power-ups in the game.
+

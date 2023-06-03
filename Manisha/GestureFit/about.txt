@@ -1,0 +1,7 @@
+           GestureFit using BodyGesture
+        
+Make the pose similar to the one shown on the window.
+Player is scored on the accuracy of the pose he made.
+If he make the wrong pose the parts that are not in sync will be marked by a red circle.
+If the player make the correct pose then he will get Perfect and will have no red circle.
+

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Games Manager Basic (2)/Games Manager Basic"
+		},
+		{
+			"path": "../Games Manager Basic (3)/Games Manager Basic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Games Manager Basic"
+	}
+}

@@ -1,0 +1,2 @@
+[ WARN:0] global ./modules/videoio/src/cap_gstreamer.cpp (1100) open OpenCV | GStreamer warning: Cannot query video position: status=0, value=-1, duration=-1
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

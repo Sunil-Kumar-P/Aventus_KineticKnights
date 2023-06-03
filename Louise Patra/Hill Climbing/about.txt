@@ -1,0 +1,7 @@
+                HIll Climbing using 2 Hand Gesture
+                
+You have to use 2 hands to play this game,One hand left side of the screen and another one right side.
+Left hand is used to apply brake while right hand is used to accelerate the vehicle. 
+Close the palm to do the respective work.
+
+
